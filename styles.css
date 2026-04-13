@@ -37,15 +37,19 @@ h1 {
 }
 .authors {
     font-family: 'BebasNeue', sans-serif; 
-    font-size: 0,8rem; 
+    font-size: 1rem; 
     position: absolute;
-    width: 100%;  /* ПО ВСЕЙ КАРТИНКЕ */
+    width: 100%; 
     display: flex; 
-    justify-content: space-between;  /* К КРАЯМ экрана */
-    padding: 0 5%;  /* ОТСТУП от краёв */
-    top: 15%;  /* ВЫШЕ заголовка */
+    justify-content: space-between; 
+    padding: 0 5%;
+    top: 15%; 
     white-space: nowrap; 
-    overflow: hidden; 
+}
+
+.authors span {
+    flex-shrink: 0;  /* слова НЕ сжимаются */
+}
 }
 .title { 
     font-family: 'Enthalpy298', sans-serif; 
