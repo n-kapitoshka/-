@@ -9,3 +9,11 @@
     <img src="images/фон огонь.jpg" class="hero-image" alt="Проект">
     <h1>НАЗВАНИЕ ПРОЕКТА</h1>
 </section>
+
+/* АДАПТАЦИЯ ДЛЯ ПК — В КОНЕЦ styles.css */
+@media (min-width: 850px) {
+    .hero-image {
+        height: 50vh;  /* выше на ПК */
+        object-position: left; /* прижимает справа */
+    }
+}
