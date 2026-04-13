@@ -98,9 +98,10 @@ html, body {
 
 /* Основной контент */
 body {
-    font-family: Arial, sans-serif;
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    line-height: 1.6;
+    margin: 0 !important;
+    padding-top: 0 !important;
+}
+
+.hero-image {
+    margin-top: 0 !important;
 }
