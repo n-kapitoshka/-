@@ -5,10 +5,9 @@
     box-sizing: border-box; 
 }
 
-/* ШРИФТ */
-@font-face {
-    font-family: 'Enthalpy298';
-    src: url('fonts/enthalpy298regular.woff');
+/* ШРИФТЫ */
+@font-face { font-family: 'Enthalpy298'; src: url('fonts/enthalpy298regular.woff'); }
+@font-face { font-family: 'BebasNeue'; src: url('fonts/Bebas-Neue-Pro-SemiExpanded-Book.woff'); 
 }
 
 /* 1. ПЕРВЫЙ БЛОК */
