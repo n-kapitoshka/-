@@ -39,3 +39,6 @@ h1 {
     white-space: nowrap;  /* НЕ переносит строку */
     max-width: 100%;      /* не выходит за картинку */
 }
+.title { 
+    font-family: 'Enthalpy298', sans-serif; 
+}
