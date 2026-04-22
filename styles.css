@@ -1,4 +1,4 @@
-/* 1. ОТСТУПЫ */
+5/* 1. ОТСТУПЫ */
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 /* ШРИФТЫ */
@@ -25,8 +25,8 @@ h1 {
     left: 50%; 
     transform: translate(-50%, -50%); 
     font-family: 'Enthalpy298', sans-serif; 
-    font-size: 3rem; 
-    line-height: 1.5;
+    font-size: 3.5rem; 
+    line-height: 0.5;
     color: white; 
     text-align: center; 
 }
