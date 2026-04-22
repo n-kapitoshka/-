@@ -24,9 +24,12 @@ h1 {
     top: 35%; 
     left: 50%; 
     transform: translate(-50%, -50%); 
-    font-family: 'Enthalpy298', sans-serif; 
-    font-size: 3.8rem; 
     line-height: 0.8;
     color: white; 
     text-align: center; 
 }
+.authors { 
+    font-family: 'BebasNeue', sans-serif; 
+    font-size: 2rem; 
+    display: block; 
+    margin-bottom: 1rem;
