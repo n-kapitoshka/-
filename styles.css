@@ -34,13 +34,13 @@ h1 {
     width: 100%;
     display: block; 
     justify-content: space-between;
-    padding: 0 5%; 
+    padding: 0.5%; 
     margin-bottom: 2rem;
     white-space: nowrap;  /* НЕ переносит строку */
     max-width: 100%;      /* не выходит за картинку */
 }
 .title { 
     font-family: 'Enthalpy298', sans-serif; 
-    font-size: 3,8rem; 
+    font-size: 3.8rem; 
     line-height: 0.8;
 }
