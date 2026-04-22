@@ -3,16 +3,12 @@
 
 /* ШРИФТЫ */
 @font-face { font-family: 'Enthalpy298'; src: url('fonts/enthalpy298regular.woff'); }
-@font-face { font-family: 'Bebas'; src: url('fonts/Bebas-Neue-Pro-SemiExpanded-Book.woff'); } 
+@font-face { font-family: 'Bebas'; src: url('fonts/Bebas-Neue-Pro-SemiExpanded-Book.woff'); }
 
 /* 1. БЛОК 1 */
 .block1 { 
     height: 33vh; 
     position: relative; 
-    overflow: hidden; 
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 .hero-image { 
     width: 100%; 
