@@ -78,7 +78,12 @@ h1 {
     text-align: center;
     margin-bottom: 0.7rem;
     max-width: 90%;}
-.new { }
+.new {
+    position: absolute; 
+}
+.book {
+    position: absolute; 
+}
 
 /* БЛОК 3 */
 .hero-image { 
