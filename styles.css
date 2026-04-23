@@ -79,14 +79,13 @@ h1 {
     max-width: 100%;}     /* не выходит за картинку */
 .annotation2 { 
     position: absolute; 
-    left: 10%; 
-    right: 10%;
+    left: 50%; 
     transform: translateX(-50%);
     font-family: 'BravoSC', sans-serif; 
     font-size: 0.9rem; 
     color: #c1c1c1; 
     text-align: center;
-    max-width: 100%;}     /* не выходит за картинку */
+    width: 80%;}
     
 /* БЛОК 3 */
 .hero-image { 
