@@ -90,6 +90,7 @@ h1 {
     font-size: 0.9rem; 
     color: #c1c1c1; 
     text-align: center;
+    white-space: normal;
     width: 85%;}     /* не выходит за картинку */
     
 /* БЛОК 3 */
