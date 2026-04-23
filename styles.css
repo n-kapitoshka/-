@@ -80,11 +80,13 @@ h1 {
     max-width: 90%;}
 .new {
     position: absolute;
-    bottom: 30%;
+    bottom: 15%;
+    left: 50%;
 }
 .book {
     position: absolute;
-    bottom: 20%;
+    bottom: 8%;
+    left: 50%;
 }
 
 /* БЛОК 3 */
