@@ -55,7 +55,7 @@ h1 {
     transform: translateX(-50%);
     font-family: 'Bebas', sans-serif; 
     font-size: 0.7rem; 
-    color: white; 
+    color: #c1c1c1; 
     text-align: center;}
 /* БЛОК 2 */
 .hero-image { 
@@ -70,9 +70,11 @@ h1 {
     left: 50%; 
     transform: translateX(-50%);
     font-family: 'Bebas', sans-serif; 
-    font-size: 2rem; 
-    color: white; 
-    text-align: center;}
+    font-size: 1rem; 
+    color: #c1c1c1; 
+    text-align: center;
+    white-space: nowrap;  /* НЕ переносит строку */
+    max-width: 100%;}     /* не выходит за картинку */
     
 /* БЛОК 3 */
 .hero-image { 
