@@ -69,12 +69,12 @@ h1 {
     top: 0; left: 0;}
 .annotation1 { 
     position: absolute; 
-    top: 20%;
+    top: 15%;
     bottom: 15%;
     left: 50%; 
     transform: translateX(-50%);
     font-family: 'Enthalpy298', sans-serif; 
-    font-size: 0.9rem; 
+    font-size: 0.85rem; 
     color: #c1c1c1; 
     text-align: center;
     white-space: nowrap;  /* НЕ переносит строку */
