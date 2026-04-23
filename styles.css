@@ -73,8 +73,8 @@ h1 {
     bottom: 15%;
     left: 50%; 
     transform: translateX(-50%);
-    font-family: 'Book', sans-serif; 
-    font-size: 1rem; 
+    font-family: 'Enthalpy298', sans-serif; 
+    font-size: 0.9rem; 
     color: #c1c1c1; 
     text-align: center;
     white-space: nowrap;  /* НЕ переносит строку */
