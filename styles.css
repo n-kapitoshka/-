@@ -81,7 +81,8 @@ h1 {
     white-space: nowrap;  /* НЕ переносит строку */
     max-width: 100%;}     /* не выходит за картинку */
 .annotation2 { 
-    position: absolute;}
+    position: absolute;
+    display: flex}
 
 /* БЛОК 3 */
 .hero-image { 
