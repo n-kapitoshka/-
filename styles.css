@@ -67,7 +67,7 @@ h1 {
     object-fit: cover; 
     position: absolute;
     top: 0; left: 0;}
-.annotation1 { 
+.annotation { 
     position: absolute; 
     top: 10%;
     bottom: 15%;
@@ -80,9 +80,7 @@ h1 {
     margin-bottom: 0.7rem;
     white-space: nowrap;  /* НЕ переносит строку */
     max-width: 100%;}     /* не выходит за картинку */
-.annotation2 { 
-    position: absolute;
-    display: flex}
+.new { }
 
 /* БЛОК 3 */
 .hero-image { 
