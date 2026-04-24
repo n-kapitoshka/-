@@ -86,7 +86,8 @@ h1 {
     font-family: 'Enthalpy298', sans-serif;
     font-size: 1rem;
     color: #de8f28;
-    text-align: center;}
+    text-align: center;
+    text-decoration: none;}
 .new {
     position: absolute;
     bottom: 10%;
@@ -95,7 +96,8 @@ h1 {
     font-family: 'Enthalpy298', sans-serif;
     font-size: 1rem;
     color: #b43f13;
-    text-align: center;}
+    text-align: center;
+    text-decoration: none;}
 
 /* БЛОК 3 */
 .hero-image { 
