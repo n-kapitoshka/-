@@ -7,11 +7,12 @@
 /* БЛОК 1 */
 .about1 {
     display: flex;
-    gap: 10px;
-    padding: 0 10px;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    padding-top: 0;
     width: 100%;}
 .hero-image1, .hero-image2 { 
-    width: calc(50% - 10px);
+    width: 40%;
     max-height: 40vh;
     height: auto;
     object-fit: contain;
