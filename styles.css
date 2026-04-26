@@ -10,7 +10,6 @@ body { padding: 0px; box-sizing: border-box; }
     display: flex;
     flex-direction: column;}
 
-.block2 { height: 33vh; position: relative; overflow: hidden; margin-bottom: 2vh;}
 /* БЛОК 1 */
 .block1 {
     height: 33vh;
@@ -60,7 +59,12 @@ body { padding: 0px; box-sizing: border-box; }
     text-align: center;}
 
 /* БЛОК 2 */
-.hero-image { 
+.block2 {
+    min-height: 33vh;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 6px;}
+.block2 .hero-image { 
     width: 100%; 
     height: 100%; 
     object-fit: cover; 
