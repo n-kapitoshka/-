@@ -66,7 +66,7 @@ body { padding: 0px; box-sizing: border-box; }
     margin-bottom: 6px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
     padding: 8% 10%;}
 .block2 .hero-image { 
     width: 100%; 
