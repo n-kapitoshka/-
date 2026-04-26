@@ -4,7 +4,7 @@ body { padding: 6px; box-sizing: border-box; }
 /* ШРИФТЫ */
 @font-face { font-family: 'Enthalpy298'; src: url('enthalpy298regular.woff'); }
 
-.screen {
+.container {
     height: calc(100vh - 12px);
     display: flex;
     flex-direction: column;}
