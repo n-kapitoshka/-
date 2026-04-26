@@ -5,6 +5,11 @@ body { padding: 0px; box-sizing: border-box; }
 @font-face { font-family: 'Enthalpy298'; src: url('start/fonts/enthalpy298regular.woff'); }
 @font-face { font-family: 'Bebas'; src: url('start/fonts/Bebas-Neue-Pro-SemiExpanded-Book.woff'); }
 
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;}
+
 .block1, .block2, .block3  { height: 33vh; position: relative; overflow: hidden; margin-bottom: 2vh;}
 /* БЛОК 1 */
 .hero-image { 
