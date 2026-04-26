@@ -23,12 +23,6 @@ body { padding: 0px; box-sizing: border-box; }
     object-fit: cover;
     position: absolute;
     top: 0; left: 0;}
-h1 { 
-    position: absolute; 
-    top: 50%; left: 50%;
-    transform: translate(-50%, -50%); 
-    line-height: 0.8;
-    text-align: center; }
 .authors { 
     position: absolute; 
     top: 8%; 
