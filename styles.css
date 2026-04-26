@@ -12,7 +12,7 @@ body { padding: 0px; box-sizing: border-box; }
 
 /* БЛОК 1 */
 .block1 {
-    min-height: 33vh;
+    height: 33vh;
     position: relative;
     overflow: hidden;
     margin-bottom: 5px;}
@@ -60,7 +60,7 @@ body { padding: 0px; box-sizing: border-box; }
 
 /* БЛОК 2 */
 .block2 {
-    min-height: 33vh;
+    height: 33vh;
     position: relative;
     overflow: hidden;
     margin-bottom: 5px;
@@ -95,7 +95,7 @@ body { padding: 0px; box-sizing: border-box; }
 
 /* БЛОК 3 */
 .block3 {
-    min-height: 33vh;
+    height: 33vh;
     position: relative;
     overflow: hidden;}
 .block3 .hero-image {
