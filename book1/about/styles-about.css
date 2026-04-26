@@ -22,7 +22,8 @@ body { padding: 6px; box-sizing: border-box; }
 
 /* БЛОК 2 */
 .about2 {
-     width: 100%;}
+    width: 100%;
+    display: flex;}
 
 /* БЛОК 3 */
 .about3 {
