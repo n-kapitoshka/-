@@ -8,7 +8,7 @@ body { padding: 5 px 8px; box-sizing: border-box; }
     height: calc(100vh-10px);
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;}
+    justify-content: space-between;}
 
 /* БЛОК 1 */
 .about1 {
@@ -28,7 +28,7 @@ body { padding: 5 px 8px; box-sizing: border-box; }
 .about3 {
     width: 100%;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: flex-end;
     padding: 5px;}
 .hero-image3, .hero-image4, .hero-image5 { 
