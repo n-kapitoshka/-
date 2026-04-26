@@ -1,8 +1,11 @@
-/* 1. ОТСТУПЫ */
-* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body
+{ margin: 0;  height: 100% }
+body
+{ padding: 5px; box-sizing: border-box; }
 
 /* ШРИФТЫ */
 @font-face { font-family: 'Enthalpy298'; src: url('enthalpy298regular.woff'); }
+
 
 /* БЛОК 1 */
 .about1 {
