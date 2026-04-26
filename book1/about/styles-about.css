@@ -21,6 +21,7 @@
     display: flex;
     justify-content: space-evenly;
     align-items: flex-end;
+    height: 100vh;
     padding: 5px;
     width: 100%;}
 .hero-image3, .hero-image4, .hero-image5 { 
