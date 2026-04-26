@@ -1,2 +1,2 @@
 html, body { margin: 0;  height: 100% }
-body { padding: 6px; box-sizing: border-box; background-color:}
+body { padding: 6px; box-sizing: border-box; background-color: #c1c1c1; }
