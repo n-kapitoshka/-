@@ -35,7 +35,8 @@ body { padding: 6px; box-sizing: border-box; }
     color: #09131f;
     text-align: center;}
 .about2 a {
-    text-decoration: none;}
+    text-decoration: none;
+    color: #09131f;}}
 
 /* БЛОК 3 */
 .about3 {
