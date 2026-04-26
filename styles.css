@@ -16,7 +16,7 @@ body { padding: 0px; box-sizing: border-box; }
     height: 33vh;
     position: relative;
     overflow: hidden;
-    margin-bottom: 2vh;}
+    margin-bottom: 6px;}
 .block1 .hero-image {
     width: 100%;
     height: 100%;
