@@ -1,5 +1,5 @@
 html, body { margin: 0;  min-height: 100%; overflow-x: hidden;}
-body { padding: 10px 10px; box-sizing: border-box; background-color: #c1c1c1; overflow-y: auto;}
+body { padding: 10px 5px; box-sizing: border-box; background-color: #c1c1c1; overflow-y: auto;}
 
 /* ШРИФТЫ */
 @font-face { font-family: 'comic'; src: url('comic.woff'); }
@@ -12,3 +12,11 @@ body { padding: 10px 10px; box-sizing: border-box; background-color: #c1c1c1; ov
     height: auto;
     display: block;
     margin: 0 0 30px 0;}
+.text-block {
+    padding: 0 10px;
+    color: blue;
+    font-size: 1rem;
+    text-align: justify;}
+.text-block p {
+    text-indent: 1.5em;
+    margin: 0 0 1em 0;}
