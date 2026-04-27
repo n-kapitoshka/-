@@ -20,6 +20,12 @@ body { padding: 10px 5px; box-sizing: border-box; background-color: #c1c1c1; ove
 .text-block p {
     text-indent: 1.5em;
     margin: 0 0 1em 0;}
+.text-data {
+    padding: 0 10px;
+    color: #09131f;
+    font-size: 0.6rem;
+    text-align: right;
+    font-family: 'comic', sans-serif;}
 .link {
     width: 100%;
     margin: 10px auto 0;
