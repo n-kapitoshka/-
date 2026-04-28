@@ -3,6 +3,7 @@ body { padding: 10px 5px; box-sizing: border-box; background-color: #c1c1c1; ove
 
 /* ШРИФТЫ */
 @font-face { font-family: 'TTNorms-Regular'; src: url('TTNorms-Regular.woff'); }
+@font-face { font-family: 'TTNorms-Italic'; src: url('TTNorms-Italic.woff'); }
 @font-face { font-family: 'comic'; src: url('comic.woff'); }
 
 .container {
@@ -26,14 +27,13 @@ body { padding: 10px 5px; box-sizing: border-box; background-color: #c1c1c1; ove
     margin-top: 3em;}
 .bold {
     font-weight: bold;
-    font-style: italic;
     padding: 0 10px;
     font-family: 'TTNorms', sans-serif;
     color: #09131f;
     font-size: 1rem;
     text-align: justify;}
 .italics {
-    font-style: italic;}
+    font-family: 'TTNorms-Italic', sans-serif;}
 .text-data {
     padding: 0 10px;
     font-family: 'comic', sans-serif;
