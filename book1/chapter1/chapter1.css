@@ -26,6 +26,7 @@ body { padding: 10px 5px; box-sizing: border-box; background-color: #c1c1c1; ove
     margin-top: 3em;}
 .bold {
     font-weight: bold;
+    font-style: italic;
     padding: 0 10px;
     font-family: 'TTNorms', sans-serif;
     color: #09131f;
