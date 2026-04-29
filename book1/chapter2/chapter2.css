@@ -35,6 +35,8 @@ body { padding: 10px 5px; box-sizing: border-box; background-color: #c1c1c1; ove
     margin: 0 0 1em 0;}
 .text-block p.big-space {
     margin-top: 3em;}
+.color {
+    color: #680707;}
 .bold {
     font-family: 'TTNorms-BoldItalic', sans-serif;}
 .italics {
