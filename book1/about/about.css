@@ -34,16 +34,21 @@ body { padding: 6px; box-sizing: border-box; background-color: #c1c1c1;}
     font-size: 3rem;
     color: #09131f;
     text-align: center;}
+.about2 a {
+    text-decoration: none;
+    color: #09131f;}
 .about2 .start {
+    grid-column: 1 / -1;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    align-items: center;
     font-family: 'Enthalpy298', sans-serif;
     font-size: 1rem;
     color: #680707;
     text-align: center;}
-.about2 a {
+.about2 .start a {
     text-decoration: none;
-    color: #09131f;}
+    color: #680707;}
 
 /* БЛОК 3 */
 .about3 {
