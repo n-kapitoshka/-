@@ -29,3 +29,15 @@ body { padding: 10px 5px; box-sizing: border-box; background-color: #c1c1c1; ove
     hyphens: auto;
     hyphenate-limit-chars: 8 4 4;
     text-align: justify;}
+.text-block p {
+    text-indent: 1.5em;
+    margin: 0 0 1em 0;}
+.text-block p.big-space {margin-top: 2.5em;}
+.color {color: #680707;}
+.italics {font-family: 'TTNorms-Italic', sans-serif;}
+.text-data {
+    padding: 0 10px;
+    font-family: 'comic', sans-serif;
+    color: #09131f;
+    font-size: 0.8rem;
+    text-align: right;}
